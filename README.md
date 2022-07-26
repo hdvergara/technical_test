@@ -1,6 +1,6 @@
 # Blank Factor Technical Test
 
-#Execution instructions
+# Execution instructions
 
 * Locate the **RunnerTest** file which is located at path: **src/test/java/runner/RunnerTest.java**
 * The test is run by default in the Google Chrome browser.

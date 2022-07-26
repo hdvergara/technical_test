@@ -73,9 +73,9 @@ public class PageTest {
     }
 
     public void findAndClickBlogTitle() throws WebActionsException {
-        while (!webAction.isVisible(lnkWhyFintechTitle, DEFAULT_TIME)) {
-            webAction.click(btnLoadMore, DEFAULT_TIME);
-            webAction.isInvisible(spinner, DEFAULT_TIME);
+        while (!webAction.isVisible(lnkWhyFintechTitle, 0)) {
+            webAction.click(btnLoadMore, 5);
+            webAction.isInvisible(spinner, 5);
         }
         webAction.click(lnkWhyFintechTitle, DEFAULT_TIME);
     }

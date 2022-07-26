@@ -44,3 +44,25 @@
 2022-jul-26 11:21:43 [Test] INFO  : ============================= End Test ================================
 
 
+2022-jul-26 14:01:11 [Test] INFO  : ============================ Start Test ==============================
+2022-jul-26 14:01:16 [Test] INFO  : Opening URL BlankFactor
+2022-jul-26 14:01:17 [Test] INFO  : The home page loaded correctly
+2022-jul-26 14:03:10 [Test] INFO  : ============================ Start Test ==============================
+2022-jul-26 14:03:15 [Test] INFO  : Opening URL BlankFactor
+2022-jul-26 14:03:15 [Test] INFO  : The home page loaded correctly
+2022-jul-26 14:03:37 [Test] INFO  : The blog was entered correctly defined
+2022-jul-26 14:03:37 [Test] INFO  : The validations were executed
+2022-jul-26 14:03:40 [Test] INFO  : The email was subscribed
+2022-jul-26 14:03:41 [Test] INFO  : Title: The mindset behind the DevOps system
+2022-jul-26 14:03:41 [Test] INFO  : Title: World-class Talent: The role of a business analyst
+2022-jul-26 14:03:41 [Test] INFO  : Title: How we’re building up our Snowflake partnership
+2022-jul-26 14:03:41 [Test] INFO  : Title: How fintech is powering the hospitality sector
+2022-jul-26 14:03:41 [Test] INFO  : Title: Boosting insurance on the spot with the latest tech
+2022-jul-26 14:03:41 [Test] INFO  : Title: Why Stonewall still matters, in tech and everywhere
+2022-jul-26 14:03:41 [Test] INFO  : Title: What’s Stripe and how does it work?
+2022-jul-26 14:03:41 [Test] INFO  : Title: Being an ally in the workplace
+2022-jul-26 14:03:41 [Test] INFO  : Title: All you need to know about Java 17 – 18
+2022-jul-26 14:03:41 [Test] INFO  : Title: Why our pride month calendar goes beyond simple marketing
+2022-jul-26 14:03:46 [Test] INFO  : ============================= End Test ================================
+
+

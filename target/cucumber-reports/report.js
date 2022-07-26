@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 359257900,
+  "duration": 402662500,
   "status": "passed"
 });
 formatter.scenario({
@@ -42,32 +42,32 @@ formatter.match({
   "location": "StepTest.weAreOnTheBlankFactorMainPage()"
 });
 formatter.result({
-  "duration": 6366459500,
+  "duration": 4719905100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepTest.whenWeGoToTheBlogSectionAndSearchForABlog()"
 });
 formatter.result({
-  "duration": 575622893600,
+  "duration": 21873049100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepTest.validateThatThePageLoadedIsCorrect()"
 });
 formatter.result({
-  "duration": 183156200,
+  "duration": 178343300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepTest.weSubscribeByEnteringAnEmail()"
 });
 formatter.result({
-  "duration": 14322774000,
+  "duration": 3806242300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 4993912000,
+  "duration": 4705029300,
   "status": "passed"
 });
 });

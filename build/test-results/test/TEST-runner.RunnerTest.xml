@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.RunnerTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MASTER-RACER" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature: Navigate in BlankFactor
+2022-jul-26 11:21:23 [Test] INFO  : The blog was entered correctly defined
+2022-jul-26 11:21:23 [Test] INFO  : The validations were executed
+2022-jul-26 11:21:26 [Test] INFO  : The email was subscribed
+2022-jul-26 11:21:38 [Test] INFO  : Title: The mindset behind the DevOps system
+2022-jul-26 11:21:38 [Test] INFO  : Title: World-class Talent: The role of a business analyst
+2022-jul-26 11:21:38 [Test] INFO  : Title: How weâ€™re building up our Snowflake partnership
+2022-jul-26 11:21:38 [Test] INFO  : Title: How fintech is powering the hospitality sector
+2022-jul-26 11:21:38 [Test] INFO  : Title: Boosting insurance on the spot with the latest tech
+2022-jul-26 11:21:38 [Test] INFO  : Title: Why Stonewall still matters, in tech and everywhere
+2022-jul-26 11:21:38 [Test] INFO  : Title: Whatâ€™s Stripe and how does it work?
+2022-jul-26 11:21:38 [Test] INFO  : Title: Being an ally in the workplace
+2022-jul-26 11:21:38 [Test] INFO  : Title: All you need to know about Java 17 â€“ 18
+2022-jul-26 11:21:38 [Test] INFO  : Title: Why our pride month calendar goes beyond simple marketing
+2022-jul-26 11:21:43 [Test] INFO  : ============================= End Test ================================
+
+
+
+  Scenario: Technical test                                    ?[90m# src/main/resources/features/Test.feature:3?[0m
+    ?[32mGiven ?[0m?[32mWe are on the BlankFactor main page?[0m                 ?[90m# StepTest.weAreOnTheBlankFactorMainPage()?[0m
+    ?[32mWhen ?[0m?[32mWhen we go to the blog section and search for a blog?[0m ?[90m# StepTest.whenWeGoToTheBlogSectionAndSearchForABlog()?[0m
+    ?[32mThen ?[0m?[32mValidate that the page loaded is correct?[0m             ?[90m# StepTest.validateThatThePageLoadedIsCorrect()?[0m
+    ?[32mAnd ?[0m?[32mWe subscribe by entering an email?[0m                     ?[90m# StepTest.weSubscribeByEnteringAnEmail()?[0m
+
+1 Scenarios (?[32m1 passed?[0m)
+4 Steps (?[32m4 passed?[0m)
+10m1.848s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
